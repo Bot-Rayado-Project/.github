@@ -24,7 +24,7 @@ Bot Rayado вдохновлен многими другими проектами
 - Уникальный алгоритм парсинга
 
 # Установка
-Клонируем репозиторий:
+Клонируем репозиторий:<br/>
 (https)
 ```
 git clone https://github.com/Rayado-Development/compose-services & cd compose-services
