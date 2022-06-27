@@ -2,13 +2,13 @@
   <a href="https://github.com/3xiced/vkbot/">
     <img src="https://sun9-2.userapi.com/impf/rk2ygDyEHBqBLbBUPpWGRKfP4n-envluGtF3Vg/T5XaeQtts3E.jpg?size=1024x1024&quality=95&sign=f48c68a1368be545efd1e88ad36d4ca1&type=album" height="512">
   </a>
-  <h1><a href="https://github.com/Rayado-Development">Bot Rayado Project</a> - Python</h1>
+  <h1><a href="https://github.com/Rayado-Development">Bot Rayado Project</a></h1>
   <h3>Bot Rayado - Проект, содержащий все компоненты для функционирования ботов Rayado, написанный на Python и других языках.</h3>
 </div>
 
 # Bot Rayado
 
-Bot Rayado - это проект, созданный двумя разработчками, чтобы облегчить жизнь студентов МТУСИ.
+Это проект, созданный двумя разработчками, чтобы облегчить жизнь студентов МТУСИ.
 
 Bot Rayado вдохновлен многими другими проектами и был создан благодаря энтузиазму разработчиков.
 
@@ -27,15 +27,15 @@ Bot Rayado вдохновлен многими другими проектами
 Клонируем репозиторий:<br/>
 (https)
 ```
-git clone https://github.com/Rayado-Development/compose-services & cd compose-services
+git clone https://github.com/Bot-Rayado-Project/compose-services & cd compose-services
 ```
 (ssh)
 ```
-git clone git@github.com:Rayado-Development/compose-services.git & cd compose-services
+git clone git@github.com:Bot-Rayado-Project/compose-services.git & cd compose-services
 ```
 (gh cli)
 ```
-gh repo clone Rayado-Development/compose-services & cd compose-services
+gh repo clone Bot-Rayado-Project/compose-services & cd compose-services
 ```
 Важно! Перед запуском не забудьте внести конфиденциальные данные в .env файлы.
 
@@ -78,7 +78,7 @@ Bot Rayado не самый легковесный, но довольно опт�
 
 Bot rayado - очень молодой проект.
 
-[Группа ВКонтакте](https://vk.com/botrayado)
+[Группа ВКонтакте](https://vk.com/botrayado)<br/>
 [Телеграм](t.me/rayadobot)
 
 # Разработчики
